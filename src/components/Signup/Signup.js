@@ -6,6 +6,7 @@ function App(){
         <h1>THIS IS SIGNUP PAGE</h1>
         <p>singup para</p>
         <p>singup haha para</p>
+        <button>whdfweh</button>
         </>
     )
 }
